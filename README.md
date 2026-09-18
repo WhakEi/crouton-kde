@@ -6,7 +6,9 @@ Chromium OS-centric chroot generator. Ubuntu, Debian, and Kali are supported
 one distro) EOL'd Chroot Environment" doesn't acronymize as well (crodupodece is
 admittedly pretty fun to say, though).
 
-### 🪦 crouton is now end-of-life 🪦
+## This custom made version allows you to install KDE, which fails on the original repo.
+
+### 🪦 crouton-kde is now end-of-life 🪦
 
 All good things must come to an end, and considering
  * Chromium OS's introduction of increasingly strict shell safeguards,
